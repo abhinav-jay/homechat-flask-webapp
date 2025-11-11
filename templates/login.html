@@ -1,0 +1,13 @@
+<head>
+	<link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+<form method="POST">
+    <h2>Login</h2>
+    <input class="message" name="username" placeholder="Username" required><br>
+    <input class="message" type="password" name="password" placeholder="Password" required><br>
+    <button type="submit" id="send">Login</button>
+    <p class="message">New? <a href="{{ url_for('register') }}" class="a">Register</a></p>
+</form>
+
+</body>
