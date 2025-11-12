@@ -20,3 +20,6 @@ You can edit the styles of the application which are located at `static/style.cs
 The html files for the chat, the login page and the register page are located at `templates/`, `index.html` is the html file for the chat.
 You can use this app to make a small chat application for your family if you don't want to use proprietary software or leave these informations on some other server. You can run this on your own computer without anyone else seeing your conversations.
 If you want you can also remove authentication by removing the `login.html` and the `register.html` files and removing the name section from each message in the `index.html` file and also remove the routing for it to go to `/login`. That way you can remove the authentication and names and all.
+
+> [!NOTE]
+> A webchat application without authentication will soon be made, so that you can  use that instead.
