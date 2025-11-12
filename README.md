@@ -21,4 +21,4 @@ The html files for the chat, the login page and the register page are located at
 You can use this app to make a small chat application for your family if you don't want to use proprietary software or leave these informations on some other server. You can run this on your own computer without anyone else seeing your conversations.
 
 > [!NOTE]
-> A webchat application without authentication has been [made](https://github.com/abhinav-jay/homechat-flask-webapp), it is recommended to use that rather than to remove every login thing by yourself.
+> A webchat application without authentication has been [made](https://github.com/abhinav-jay/homechat_flask_webapp_without_authentication), it is recommended to use that rather than to remove every login thing by yourself.
